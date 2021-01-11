@@ -12,12 +12,21 @@ CNet: The codes for solving a connected network-regularized logistic regression 
 8. class_net.R ---- Independent data set verification to obtain ROC curve and classification accuracy
 
 costFunction12.m ---- Objective function
+
 cv.m ---- Cross validation to select optimal parameters
+
 Laplacian_Matrix.m ---- Laplacian matrix according to the adjacency matrix
+
 LogitisLap.m ---- LogitisLap function for cv
+
 SGNLR.m ---- SGNLR function for LogitisLap
+
 my_error.m ---- error function 
+
 getLambMax.m ---- getLambMax function for cv
+
 Predict.m ---- Predict function on test dataset
+
 plot_roc.m ---- Roc curve function on test dataset
+
 RunRcode.m ---- RunRcode for main function

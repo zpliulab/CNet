@@ -5,12 +5,10 @@
 In this work, a **connected network-regularized logistic regression (CNet-RLR) model** for feature selection considering the structural connectivity in a network was proposed. Mathematically, it was a convex optimization problem constrained by inequalities reflecting network connectivity.
 
 
-## LogReg
+## CNet
 <!--START_SECTION:news-->
-* **CNet**: A connected network-regularized logistic regression (CNet-RLR) model for feature selection. 
-* In this work, a **connected network-regularized logistic regression (CNet-RLR) model** were proposed to perform **feature selection**. 
-* Especially, we used it to identify the biomarkers of **uterine corpus endometrial carcinoma (UCEC)** from RNA-Seq data.  
-* In both **synthetic simulation data** and real-world *UCEC cancer genomics data**, we validated the CNet-RLR model is efficient to identify the **connected-network-structured features** that can serve as **diagnostic biomarkers**.
+* **CNet**: A **connected network-regularized logistic regression (CNet-RLR) model** were proposed to perform **feature selection**. 
+* In both **synthetic simulation data** and real-world **UCEC cancer genomics data**, we validated the CNet-RLR model is efficient to identify the **connected-network-structured features** that can serve as **diagnostic biomarkers**.
 * In the comparison study, we also proved the proposed **CNet-RLR model** results in better classification performance and feature interpretability than the **other regularized logistic regression (RLR) alternatives** and another **graph embedded feature selection model**.
 * If you have any questions about **CNet**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
 <!--END_SECTION:news-->

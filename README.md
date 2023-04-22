@@ -1,4 +1,4 @@
-# [CNet-RLR (A connected network-regularized logistic regression)](https://github.com/zpliulab/CNet)
+# [CNet-RLR: A connected network-regularized logistic regression model for feature selection](https://github.com/zpliulab/CNet)
 
 [![Screenshot](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10489-021-02877-3/MediaObjects/10489_2021_2877_Fig8_HTML.png?as=webp)](https://doi.org/10.1007/s10489-021-02877-3)
 
